@@ -1,6 +1,6 @@
 html {
   font-family: Arial, Helvetica, sans-serif;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.80),rgba(0, 0, 0, 0.5)), url("maxresdefault.jpg") ;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.80),rgba(0, 0, 0, 0.5)), url("imgs/maxresdefault.jpg") ;
   height: 100%;
   width:100%;
   background-position: center;
@@ -218,7 +218,7 @@ input[type=submit]:hover{
 
 @media screen and (max-width: 1000px){
 
-	html { background-image: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.5)), url("espace.jpg");}
+	html { background-image: linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.5)), url("imgs/espace.jpg");}
 	
 	.topnav {display: inline;}
 	.ham {display:none;}
@@ -326,7 +326,7 @@ input[type=submit]:hover{
 
 @media screen and (max-width: 600px){
 
-	html { background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.5)), url("zoe.jpg");}
+	html { background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.5)), url("imgs/zoe.jpg");}
     
     .topnav {display:none;}
 	
