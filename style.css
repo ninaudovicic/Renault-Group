@@ -58,18 +58,7 @@ body{ margin: 0 !important; }
   color: white;
 }
 
-#anim{
-	width:100px;
-	height:40px;
-	position:relative;
-	animation: anim 4s infinite;
-}
 
-@keyframes anim{
-	0%{top:500px; left:0px;}
-	50%{top:500px; left:900px; }
-	100%{top:500px; left:0px; }
-}
 
  footer{
  	display:block;
@@ -244,8 +233,7 @@ input[type=submit]:hover{
   		color: #cc0000;
 	}
 
-	#anim{ display:none;}
-
+	
 	.section{
 		top:20%;
 		padding:40px;
@@ -354,7 +342,7 @@ input[type=submit]:hover{
   		color: #00b3b3;
 	}
 
-	#anim{ display:none; }
+	
 	
 	.section{
 		top:20%;
