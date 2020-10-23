@@ -264,7 +264,7 @@ input[type=submit]:hover{
 		margin-bottom: 10px;
 	}
 
-	input[type=text], input[type=e-mail], select{
+	input[type=text], input[type=email], select{
 		width:80%;
 		padding: 12px;
 		border:1px solid  #cc0000;
@@ -370,7 +370,7 @@ input[type=submit]:hover{
 		padding:7px;
 	}
 
-	input[type=text], input[type=e-mail], select{
+	input[type=text], input[type=email], select{
 		width:75%;
 		padding: 10px;
 		border:1px solid  #00b3b3;
