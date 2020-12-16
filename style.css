@@ -205,7 +205,10 @@ input[type=submit]:hover{
 .padajuci:hover .padajuciE {display: block;}
 
 
-  
+#s-network{
+	display:block;
+	align:right;
+}
 
 @media screen and (max-width: 1000px){
 
