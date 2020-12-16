@@ -203,6 +203,10 @@ input[type=submit]:hover{
 }
 
 .padajuci:hover .padajuciE {display: block;}
+.fb-share-button{
+	width:50px;
+}
+
   
 
 @media screen and (max-width: 1000px){
